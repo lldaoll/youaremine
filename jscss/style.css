@@ -80,7 +80,7 @@ body {
 }
 
 #show{
-	color:#4472C4;
+	color:#4B0091;
 	text-shadow: 2px 3px 3px #0ff;
 	font-family:Microsoft YaHei;
 	font-style:italic;
@@ -124,11 +124,11 @@ img {
 
 .spanstyle{
 	color:#CCFF99;
-	font-family:courier;
+	font-family:STLiti;
 	text-shadow: 2px 2px 1px #222;
 	font-style:italic;
-	font-weight:600;
-	font-size:20px;
+	font-weight:60;
+	font-size:14px;
 	position:absolute;		/* 绝对定位 */
 	top:-50px;
 	overflow:hidden;
